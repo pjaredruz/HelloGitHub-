@@ -1,4 +1,4 @@
-# HelloGitHub-
+# firstrepo-
 My first GitHub repository with Node.js 
 # What I learned
  - I learned what Git was 
